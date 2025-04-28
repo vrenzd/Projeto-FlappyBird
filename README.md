@@ -1,10 +1,10 @@
-# Flappy Bird em Python 🕹️🐦
+# Flappy Bird em Python
 
 ## Descrição 📌
 Este projeto é uma implementação do jogo **Flappy Bird** utilizando **Python** e bibliotecas como **Pygame**. O objetivo é recriar a mecânica clássica do jogo, onde o jogador controla um pássaro que precisa evitar obstáculos enquanto voa.
 
 ## Tecnologias Utilizadas ⚙️
-- **Python** 🐍
+- **Python** 
 - **Pygame** 🎮 (para a renderização e manipulação do jogo)
 - **Random** (para a geração aleatória dos obstáculos)
 - **Sys** (para controle de saída do programa)
